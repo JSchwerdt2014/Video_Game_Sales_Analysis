@@ -1,19 +1,33 @@
-### Start, Finish date
-Project created on March 3, 2023,
-Finished on March 4, 2023
+# **Video_Games_Sales_Project**
 
-### Project Title
-Video Game Sales Data
+The purpose of this project is to analyze video games sales between the US, Japan and Europe
 
-### Description
-In this project we will take a look at video game sales across different countries and compare sales Data
+## **Methods Used**
 
-### Files used
-cleaned-video-game-sales-df.csv
-q1-visualization.png
-q2-visualization.png
-q3-visualization.png
-README.md
-video-game-sales-analytics.ipynb
-video-game-sales-data-cleaning.ipynb
-video-game-sales-df.csv
+-Data Analysis  
+-Data Visualization  
+-Predictive Modeling  
+
+## **Technologies**
+
+-Python  
+-Jupyter Notebooks  
+-Pandas  
+-Tablau
+-NumPy  
+
+## **Project Discription**
+
+This project is a data analysis of video game sales data. We use a kagle dataset and clean the dataset using python pandas. We then explore the data using Tablau to answer a few key questions.
+
+-What country had the highest amount of overal sales?
+-Which genre produces the highest amount of sales?
+-Does the year of release have any correlation to sales?
+
+The answers to these questions are visualized through tablau visualizations.
+
+## **Installation**
+
+-`git clone https://github.com/JSchwerdt2014/Video_Game_Sales_Project.git`  
+-Raw data is here https://github.com/JSchwerdt2014/Video_Game_Sales_Project/blob/master/Sales_Data_Original.csv  
+-Cleaned data is here https://github.com/JSchwerdt2014/Video_Game_Sales_Project/blob/master/Sales_Data_Cleaned 
