@@ -13,12 +13,12 @@ The purpose of this project is to analyze video games sales between the US, Japa
 -Python  
 -Jupyter Notebooks  
 -Pandas  
--Tablau
+-Tableau
 -NumPy  
 
 ## **Project Discription**
 
-This project is a data analysis of video game sales data. We use a kagle dataset and clean the dataset using python pandas. We then explore the data using Tablau to answer a few key questions.
+This project is a data analysis of video game sales data. We use a kaggle dataset and clean the dataset using python pandas. We then explore the data using Tableau to answer a few key questions.
 
 -What country had the highest amount of overal sales?
 -Which genre produces the highest amount of sales?
@@ -30,4 +30,4 @@ The answers to these questions are visualized through tablau visualizations.
 
 -`git clone https://github.com/JSchwerdt2014/Video_Game_Sales_Project.git`  
 -Raw data is here https://github.com/JSchwerdt2014/Video_Game_Sales_Project/blob/master/Sales_Data_Original.csv  
--Cleaned data is here https://github.com/JSchwerdt2014/Video_Game_Sales_Project/blob/master/Sales_Data_Cleaned 
+-Cleaned data is here https://github.com/JSchwerdt2014/Video_Game_Sales_Project/blob/master/Sales_Data_Cleaned
