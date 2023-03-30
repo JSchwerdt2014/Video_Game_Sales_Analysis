@@ -1,6 +1,11 @@
 # **Video_Games_Sales_Project**
 
-The purpose of this project is to analyze video games sales between the US, Japan and Europe
+The purpose of this project is to analyze video games sales between the US, Japan and Europe. We will be providing a sales report and answering a few questions.
+
+1. What country has the most sales overall?
+2. What genre of game sells best in the United States?
+3. How does the year of release compare to global sales?
+
 
 ## **Methods Used**
 
